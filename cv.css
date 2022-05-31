@@ -1,0 +1,59 @@
+.imagine-100px{
+    width: 120px;
+    border-radius: 40%;
+}
+.imagine-30px{
+    width: 20px;
+    background-color:transparent;
+    vertical-align: top ;
+}
+.bold{
+    font-weight:bold;
+}
+.boldsiceva{
+    font-weight:bold;
+    font-size: 20px;
+}
+#tabel2{
+    width: 100%;
+    border-collapse: collapse;
+}
+.aliniere-titiluri{
+    padding-left: 50px;
+    font-size: 40px;
+    font-weight:bold;
+}
+.aliniere-text{
+    padding-left: 100px;
+    font-size: 25px;
+}
+.aliniere-text-lista{
+    padding-left: 50px;
+    font-size: 25px;
+}
+.centerprimacoloana{
+    text-align: center;
+    vertical-align: top ;
+    background-color: rgb(5, 206, 139);
+}
+.coloana-mijloc{
+    border-left: 7px solid;
+    color: rgb(243, 240, 55);
+    padding-right: 10px;
+}
+.coloana-mijloc-alba{
+    border-left: 7px solid;
+    border-color: white;
+}
+.aliniere-la-baza{
+    padding-top: 120px;
+}
+.marklist{
+    list-style-type:square ;
+}
+.hr-style{
+    height: 10px;
+    background-color: rgb(243, 240, 55);
+    border-style: none;
+    border-radius: 50px;
+}

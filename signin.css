@@ -1,0 +1,10 @@
+.text{
+    text-align: center;
+    font-size: 30px;
+}
+.backgroundbutton{
+    background-color: rgb(231, 58, 72);
+    color: white; 
+    border-color: rgb(231, 58, 72);
+    border-radius: 10px;
+}
